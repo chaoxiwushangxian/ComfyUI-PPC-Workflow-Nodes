@@ -1,0 +1,13 @@
+[project]
+name = "comfyui-ppc-workflow-nodes"
+version = "0.7.0"
+description = "Fixed-function ComfyUI nodes for one private workflow. Not a code executor and not a published package."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "LicenseRef-Proprietary" }
+dependencies = []
+
+[tool.comfy]
+DisplayName = "PPC Workflow Nodes"
+# PublisherId is intentionally unset. This file is not a Comfy Registry
+# publication config and it is not an instruction to upload anywhere.

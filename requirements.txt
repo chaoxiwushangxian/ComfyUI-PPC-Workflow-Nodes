@@ -1,0 +1,4 @@
+# First batch: no third-party packages.
+# Runtime uses the Python standard library plus the host module
+# comfy_execution.graph_utils.ExecutionBlocker, which is already part of ComfyUI.
+# Do not upgrade torch, CUDA, or ComfyUI to install this package.

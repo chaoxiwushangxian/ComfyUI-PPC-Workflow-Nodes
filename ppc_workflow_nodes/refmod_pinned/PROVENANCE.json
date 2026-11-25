@@ -1,0 +1,13 @@
+{
+  "commit": "517e8c419a8584fbf69fceb487bc39d83e6a6ec8",
+  "outer_single_sha256": "aaff07edfe8b2ef66062a0ba3cb32151d2d5b4761918acadc231476d01078bf2",
+  "outer_joint_sha256": "d4d4ab5fd963f9515165091c4b41adaf3c30aad6540b7c673b4f31886f9913b3",
+  "core_sha256": "e9a2a03e6402e93d95c94c4b15dd244847582c3f614ec43dd7465f5176f690d6",
+  "common_sha256": "893c5e8cce1c5d0bb0fc0fa7cd2bdb88707224267c40279a3c0dd96d531bdda4",
+  "bridge_original_sha256": "29d955c6e40aeeea13bf311d1a62e59cff3cb8f36fa2c7cf031622f0b98f9295",
+  "bridge_edit": "load_pinned_author imports the static core module and checks CORE_SHA256. It does not exec or compile.",
+  "reference_single_sha256": "684992dd76303851a1fda2a5b49fc2399992669b6d02247d6f993e1d9ced56a8",
+  "runtime_single_sha256": "7a2eb1fd73360174bf9ccf6d04c01aa39a58146f1b6a29b54f2f37cb85bea998",
+  "reference_joint_sha256": "cfcbd9c8c2e04ca2d37f2bfa9528b4129ace11f2e9518a53eb6768060f20b34c",
+  "runtime_joint_sha256": "8b3e9262fe89eff2ee5e11c3539dc525f3f2bdc4614cece81c3fa31afe15f4af"
+}
